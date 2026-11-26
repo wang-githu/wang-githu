@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wang-githu
-- 👀 I’m interested in C\MATLAB and PLC 还有单片机
+- 👀 I’m interested in plc WINCC KINGVIEW MCGS
 - 🌱 I’m currently learning 考研
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
